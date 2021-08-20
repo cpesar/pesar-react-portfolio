@@ -4,10 +4,11 @@ import Portfolio from './components/portfolio/Portfolio';
 import Resume from './components/resume/Resume';
 import Contact from './components/contact/Contact';
 import Burger from './components/burger/Burger';
+import Footer from './components/footer/Footer';
 import './app.scss';
 
 import { useState } from 'react';
-import { set } from 'lodash';
+
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false)
@@ -20,7 +21,7 @@ function App() {
         <Portfolio />
         <Resume />
         <Contact />
-        
+        <Footer />
       </div>
     </div>
   );
