@@ -7,7 +7,7 @@ export default function Navbar({menuOpen, setMenuOpen}) {
     <div className={"navbar  " + (menuOpen && "active")}>
       <div className='wrapper'>
         <div className='left'>
-          <a href='#intro' className='logo'>Chris Pesar.</a>
+          <a href='#intro' className='logo'>Pesar.</a>
           <div className='itemContainer'>
             <GitHub className="icon"/>
             <span>cpesar</span>
