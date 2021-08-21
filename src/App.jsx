@@ -1,10 +1,14 @@
+//Components
 import Navbar from './components/navbar/Navbar';
 import Intro from './components/intro/Intro';
-import Portfolio from './components/portfolio/Portfolio';
-import Resume from './components/resume/Resume';
-import Contact from './components/contact/Contact';
 import Burger from './components/burger/Burger';
 import Footer from './components/footer/Footer';
+
+//Pages
+import Portfolio from './pages/portfolio/Portfolio';
+import Resume from './pages/resume/Resume';
+import Contact from './pages/contact/Contact';
+
 import './app.scss';
 
 import { useState } from 'react';
