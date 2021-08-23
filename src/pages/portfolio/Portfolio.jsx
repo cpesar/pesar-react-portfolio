@@ -1,11 +1,11 @@
 // import React from 'react'
 import './portfolio.scss';
 
-import books from '../../assets/books.png';
-import Dock from '../../assets/docking.png';
-import Pizza from '../../assets/Pizza.png';
-import Shop from '../../assets/Shop';
-import weather from '../../assets/weather.png';
+// import books from '../../assets/books.png';
+// import Dock from '../../assets/docking.png';
+// import Pizza from '../../assets/Pizza.png';
+// import Shop from '../../assets/Shop';
+// import weather from '../../assets/weather.png';
 
 export default function Portfolio() {
   return (
