@@ -1,5 +1,5 @@
-// import React from 'react'
-import './portfolio.scss';
+import './projects.scss';
+// import { useState } from 'react';
 
 // import books from '../../assets/books.png';
 // import Dock from '../../assets/docking.png';
@@ -7,9 +7,9 @@ import './portfolio.scss';
 // import Shop from '../../assets/Shop';
 // import weather from '../../assets/weather.png';
 
-export default function Portfolio() {
+export default function Projects() {
   return (
-    <div className='portfolio' id='portfolio'>
+    <div className='project' id='project'>
       <h1>Portfolio</h1>
         <ul>
           <li className='active'>Featured</li>

@@ -1,4 +1,3 @@
-
 import './intro.scss';
 import { KeyboardArrowDown } from '@material-ui/icons';
 import { init } from 'ityped';
