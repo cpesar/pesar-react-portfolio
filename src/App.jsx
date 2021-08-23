@@ -9,6 +9,8 @@ import Portfolio from './pages/portfolio/Portfolio';
 import Resume from './pages/resume/Resume';
 import Contact from './pages/contact/Contact';
 
+import docking from '../public/assets/Dock-n-Flock'
+
 import './app.scss';
 
 import { useState } from 'react';
